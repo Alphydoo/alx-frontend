@@ -1,4 +1,4 @@
-/* task 3 */
+/* task 4 */
 :root {
     --color-primary: #d73953;
     --color-black : #090909;
@@ -20,7 +20,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: var(--font-family-title);
+    font-family: var(--font-family-title);
 }
 
 a {
