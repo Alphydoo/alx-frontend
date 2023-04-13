@@ -1,1 +1,8 @@
-/c/Users/User/Desktop/images/Articles/thanos-pal-7MzOHv6CJrU-unsplash.jpg
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+thanos-pal-7MzOHv6CJrU-unsplash_pbyl1p_c_scale,w_380.jpg 380w,
+thanos-pal-7MzOHv6CJrU-unsplash_pbyl1p_c_scale,w_866.jpg 866w,
+thanos-pal-7MzOHv6CJrU-unsplash_pbyl1p_c_scale,w_1200.jpg 1200w"
+src="thanos-pal-7MzOHv6CJrU-unsplash_pbyl1p_c_scale,w_1200.jpg"
+alt="">
