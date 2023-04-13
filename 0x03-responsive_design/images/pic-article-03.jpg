@@ -1,1 +1,8 @@
-/c/Users/User/Desktop/images/Articles/thanos-pal-hM14LjRvQLM-unsplash.jpg
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+thanos-pal-hM14LjRvQLM-unsplash_u4edfw_c_scale,w_380.jpg 380w,
+thanos-pal-hM14LjRvQLM-unsplash_u4edfw_c_scale,w_878.jpg 878w,
+thanos-pal-hM14LjRvQLM-unsplash_u4edfw_c_scale,w_1200.jpg 1200w"
+src="thanos-pal-hM14LjRvQLM-unsplash_u4edfw_c_scale,w_1200.jpg"
+alt="">
