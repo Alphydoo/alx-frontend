@@ -1,1 +1,8 @@
-/c/Users/User/Desktop/images/Articles/saurav-mahto-_q28qN7J7Sg-unsplash.jpg
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+saurav-mahto-_q28qN7J7Sg-unsplash_gxan5k_c_scale,w_380.jpg 380w,
+saurav-mahto-_q28qN7J7Sg-unsplash_gxan5k_c_scale,w_1087.jpg 1087w,
+saurav-mahto-_q28qN7J7Sg-unsplash_gxan5k_c_scale,w_1200.jpg 1200w"
+src="saurav-mahto-_q28qN7J7Sg-unsplash_gxan5k_c_scale,w_1200.jpg"
+alt="">
